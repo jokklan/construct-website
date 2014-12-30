@@ -4,7 +4,7 @@ ruby '2.2.0'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.2.0'
+gem 'rails', '4.1.8'
 
 
 # GENERAL
@@ -19,7 +19,7 @@ gem 'turbolinks'
 gem 'unicorn'
 
 # Construct Framework
-gem 'widgit-cms', github: 'jokklan/widgit-cms', branch: 'develop'
+gem 'construct_io', github: 'jokklan/widgit-cms', branch: 'develop'
 
 
 # ASSETS
