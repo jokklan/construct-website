@@ -58,3 +58,9 @@ group :development do
   # We use foreman in development for running our processes
   gem 'foreman'
 end
+
+group :production do
+  # Heroku 12 factor setup
+  gem 'rails_12factor'
+end
+
