@@ -18,6 +18,9 @@ gem 'turbolinks'
 # Use Unicorn as the app server
 gem 'unicorn'
 
+# Construct Framework
+gem 'widgit-cms', github: 'jokklan/widgit-cms', branch: 'develop'
+
 
 # ASSETS
 
