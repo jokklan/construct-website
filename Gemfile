@@ -45,3 +45,7 @@ group :development, :test do
   gem 'spring'
 end
 
+group :development do
+  # We use foreman in development for running our processes
+  gem 'foreman'
+end
