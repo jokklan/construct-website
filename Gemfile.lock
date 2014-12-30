@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/jokklan/widgit-cms.git
-  revision: e00c8e9f48258a347b55d6a366dfb2f72d9fc7d6
+  revision: 1b68befb80c8d8b4e7333a5dc7839d9039ed9005
   branch: develop
   specs:
     construct_io (0.0.1)
