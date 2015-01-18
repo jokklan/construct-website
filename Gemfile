@@ -24,6 +24,9 @@ gem 'construct_io', github: 'jokklan/widgit-cms', branch: 'develop'
 
 # ASSETS
 
+# Use bootstrap as CSS framework
+gem 'bootstrap-sass', '~> 3.3.1'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 
